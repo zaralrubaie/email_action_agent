@@ -58,4 +58,4 @@ http://127.0.0.1:8000/docs
 ````
 ## Notes
 This is a simple starter project.
-A mo
+A more advanced multi‑agent LangGraph + Docker system is planned as the next version.
